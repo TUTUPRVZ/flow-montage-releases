@@ -5,13 +5,13 @@
 
 ## Скачать
 
-[FlowMontageSetup-0.5.0.exe](https://github.com/TUTUPRVZ/flow-montage-releases/releases/download/v0.5.0/FlowMontageSetup-0.5.0.exe)
+[FlowMontageSetup-0.5.2.exe](https://github.com/TUTUPRVZ/flow-montage-releases/releases/download/v0.5.2/FlowMontageSetup-0.5.2.exe)
 
-- версия: `0.5.0`;
+- версия: `0.5.2`;
 - канал: `beta`;
 - платформа: Windows x64;
 - SHA256:
-  `7AF4E836319822657073CC8FB5ED3B50044B4667EFDD3BABC70B81811408933B`;
+  `683AF8001BF39B8D1E40D743521CE50A2B629EF73E30D94073A750F1EED1B245`;
 - цифровая подпись: отсутствует.
 
 Приложение открывает и сохраняет проекты `.flowmnt`. Совместимость проектов,
