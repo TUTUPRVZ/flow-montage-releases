@@ -1,25 +1,26 @@
 # Flow | Монтажная схема
 
-Публичная страница загрузки отдельного приложения Flow для разработки монтажных
-схем тепловых сетей, подготовки спецификаций и экспорта DXF.
+Настольное приложение для разработки монтажных схем тепловых сетей,
+проектирования СОДК, подготовки спецификаций и экспорта чертежей.
 
 ## Скачать
 
-[FlowMontageSetup-0.6.0.exe](https://github.com/TUTUPRVZ/flow-montage-releases/releases/download/v0.6.0/FlowMontageSetup-0.6.0.exe)
+[FlowMontageSetup-0.6.1.exe](https://github.com/TUTUPRVZ/flow-montage-releases/releases/download/v0.6.1/FlowMontageSetup-0.6.1.exe)
 
-- версия: `0.6.0`;
-- канал: `beta`;
-- платформа: Windows x64;
-- SHA256:
-  `A9B292111570FDC6F61681E92AC1A7BE73EDB3B92E81FFC82E009FD95B703F49`;
-- цифровая подпись: отсутствует.
+- Версия: **0.6.1 Stable**.
+- Платформа: Windows x64.
+- Размер: 52 040 457 байт.
+- SHA256: `d85e6ad6504ff7c8ecb9f7086347a7b9fcab61462309e546973daec6d374e977`.
+- Обновление необязательное; цифровая подпись отсутствует.
 
-Приложение открывает и сохраняет проекты `.flowmnt`. Совместимость проектов,
-созданных в предыдущих версиях Flow | Монтажная схема, проверяется
-автоматическими тестами.
+[Список изменений 0.6.1](https://github.com/TUTUPRVZ/flow-montage-releases/releases/tag/v0.6.1).
 
-Манифест автоматического обновления:
-[`latest.beta.json`](https://raw.githubusercontent.com/TUTUPRVZ/flow-montage-releases/main/latest.beta.json).
+Приложение открывает и сохраняет проекты `.flowmnt`, включая проекты версии 0.5.0.
+Существующие Beta-клиенты получают переход на 0.6.1 Stable.
 
-В этом публичном репозитории находятся только файлы выпуска. Исходный код
-хранится отдельно в закрытом репозитории.
+Манифесты обновлений:
+[Stable](https://raw.githubusercontent.com/TUTUPRVZ/flow-montage-releases/main/latest.stable.json)
+и [переход с Beta](https://raw.githubusercontent.com/TUTUPRVZ/flow-montage-releases/main/latest.beta.json).
+
+Этот публичный репозиторий содержит только сведения о выпусках и установщики.
+Исходный код хранится отдельно в закрытом репозитории.
