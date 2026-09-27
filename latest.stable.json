@@ -1,12 +1,12 @@
 {
   "channel": "stable",
-  "version": "0.6.3",
-  "url": "https://github.com/TUTUPRVZ/flow-montage-releases/releases/download/v0.6.3/FlowMontageSetup-0.6.3.exe",
-  "sha256": "80f9bd443c41f245243c01de51a07bec2836bc62a57f41a88a2e76c957df1d0e",
+  "version": "0.6.4",
+  "url": "https://github.com/TUTUPRVZ/flow-montage-releases/releases/download/v0.6.4/FlowMontageSetup-0.6.4.exe",
+  "sha256": "dec16a94e94a787d70133af01d307735c44ac291ae0386bbbef3ed98e514647f",
   "product_id": "flow-montage",
-  "notes_url": "https://github.com/TUTUPRVZ/flow-montage-releases/releases/tag/v0.6.3",
+  "notes_url": "https://github.com/TUTUPRVZ/flow-montage-releases/releases/tag/v0.6.4",
   "notes": "",
   "mandatory": false,
-  "published_at": "2026-09-14",
+  "published_at": "2026-09-27",
   "release_channel": "stable"
 }
