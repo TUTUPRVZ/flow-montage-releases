@@ -5,19 +5,19 @@
 
 ## Скачать
 
-[FlowMontageSetup-0.6.4.exe](https://github.com/TUTUPRVZ/flow-montage-releases/releases/download/v0.6.4/FlowMontageSetup-0.6.4.exe)
+[FlowMontageSetup-0.6.5.exe](https://github.com/TUTUPRVZ/flow-montage-releases/releases/download/v0.6.5/FlowMontageSetup-0.6.5.exe)
 
-- Версия: **0.6.4 Stable**.
+- Версия: **0.6.5 Stable**.
 - Платформа: Windows x64.
-- Размер: 52 680 007 байт.
-- SHA256: `dec16a94e94a787d70133af01d307735c44ac291ae0386bbbef3ed98e514647f`.
+- Размер: 52 753 188 байт.
+- SHA256: `c785c38155ecbd3a36ffa6cde5c9180dbb19964c5c036f90c2d773308db6904d`.
 - Обновление необязательное; цифровая подпись отсутствует.
 
-[Список изменений 0.6.4](https://github.com/TUTUPRVZ/flow-montage-releases/releases/tag/v0.6.4).
+[Список изменений 0.6.5](https://github.com/TUTUPRVZ/flow-montage-releases/releases/tag/v0.6.5).
 
 Приложение открывает и сохраняет проекты `.flowmnt`, включая проекты версии 0.5.0.
-После сохранения новых параметров требуется версия 0.6.4 или новее; для прежней версии сохраняйте исходную копию проекта.
-Существующие Beta-клиенты получают переход на 0.6.4 Stable.
+После сохранения новых параметров требуется версия 0.6.5 или новее; для прежней версии сохраняйте исходную копию проекта.
+Существующие Beta-клиенты получают переход на 0.6.5 Stable.
 
 Манифесты обновлений:
 [Stable](https://raw.githubusercontent.com/TUTUPRVZ/flow-montage-releases/main/latest.stable.json)
@@ -25,3 +25,5 @@
 
 Этот публичный репозиторий содержит только сведения о выпусках и установщики.
 Исходный код хранится отдельно в закрытом репозитории.
+
+[Краткий гид по новым возможностям](guides/0.6.5.md).
