@@ -2,21 +2,16 @@
 
 Настольное приложение для разработки монтажных схем тепловых сетей, проектирования СОДК, подготовки спецификаций и экспорта чертежей.
 
-## Скачать
+## Версия 0.7.5 для Windows x64
 
-[FlowMontageSetup-0.7.4.exe](https://github.com/TUTUPRVZ/flow-montage-releases/releases/download/v0.7.4/FlowMontageSetup-0.7.4.exe)
+Обновление доступно в Flow Launcher и через команду «Проверить обновления» в приложении. Для ручной установки скачайте установщик.
 
-- Версия: **0.7.4 Stable**.
-- Платформа: Windows x64.
-- Размер: 53281280 байт.
-- SHA256: `3479426c9ee32778eff9e0332a041632ca3ed451d300df2ab107ea90205d1683`.
-- Обновление необязательное; цифровая подпись отсутствует.
+[Скачать установщик](https://github.com/TUTUPRVZ/flow-montage-releases/releases/download/v0.7.5/FlowMontageSetup-0.7.5.exe) · [Что изменилось в 0.7.5](https://github.com/TUTUPRVZ/flow-montage-releases/releases/tag/v0.7.5)
 
-[Список изменений 0.7.4](https://github.com/TUTUPRVZ/flow-montage-releases/releases/tag/v0.7.4).
+Прежние проекты открываются в новой версии. Чтобы вернуться к работе в прежней версии Flow, сохраните исходную копию проекта перед пересохранением в 0.7.5.
 
-Приложение открывает и сохраняет проекты .flowmnt, включая проекты версии 0.5.0. Новые сохранения используют schema33 (СОДК — schema18) и требуют 0.7.2 или новее; для прежних версий сохраняйте исходную копию проекта.
-Существующие Beta-клиенты получают переход на 0.7.4 Stable.
+Обновление необязательное. Размер установщика — 53 178 495 байт. Цифровая подпись отсутствует.
 
-Манифесты обновлений: [Stable](https://raw.githubusercontent.com/TUTUPRVZ/flow-montage-releases/main/latest.stable.json) и [переход с Beta](https://raw.githubusercontent.com/TUTUPRVZ/flow-montage-releases/main/latest.beta.json).
+SHA-256 — `56f35bf57949f637d2b7d8de3eab5b59d353cc8b053bf0d4522a5c16c812b30d`.
 
-Этот публичный репозиторий содержит только сведения о выпусках и установщики. Исходный код хранится отдельно в закрытом репозитории.
+[Основной манифест](https://raw.githubusercontent.com/TUTUPRVZ/flow-montage-releases/main/latest.stable.json) · [Манифест для прежних бета-версий](https://raw.githubusercontent.com/TUTUPRVZ/flow-montage-releases/main/latest.beta.json)
