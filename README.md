@@ -2,18 +2,18 @@
 
 Настольное приложение для разработки монтажных схем тепловых сетей, проектирования СОДК, подготовки спецификаций и экспорта чертежей.
 
-## Версия 0.7.7 для Windows x64
+## Версия 0.7.8 для Windows x64
 
 Для первой установки скачайте и откройте Flow Launcher. В каталоге выберите «Монтажная схема» и нажмите «Установить». Когда выйдет новая версия, в той же карточке появится кнопка «Обновить».
 
-[Скачать Flow Launcher для Windows](https://github.com/TUTUPRVZ/Flow-updates/releases/latest) · [Что изменилось в 0.7.7](https://github.com/TUTUPRVZ/flow-montage-releases/releases/tag/v0.7.7)
+[Скачать Flow Launcher для Windows](https://github.com/TUTUPRVZ/Flow-updates/releases/latest) · [Что изменилось в 0.7.8](https://github.com/TUTUPRVZ/flow-montage-releases/releases/tag/v0.7.8)
 
-Исправлены размещение текста размеров DXF при резервном шрифте и длинные обозначения матов. Служебный Setup запускается через Launcher.
+В установщике исправлена обработка перенаправленных путей App Volumes/SVROOT. Служебный Setup запускается через Launcher.
 
 Формат проектов не изменился относительно 0.7.5. Прежние проекты открываются в новой версии; для чтения новых сохранений требуется Flow 0.7.5 или новее. Перед пересохранением сохраняйте исходную копию проекта.
 
-Обновление необязательное. Размер установщика — 54 129 166 байт. Цифровая подпись отсутствует.
+Обновление необязательное. Размер установщика — 53 151 140 байт. Цифровая подпись отсутствует.
 
-SHA-256 — `7cea5bd21c32e5fabb9dee44b20ddd63a9a425f19a5a01472044ceceb3ed5d67`.
+SHA-256 — `4e33ff80ec8928bce4dba7a4f2c5181898d084292d0caf71a1633af753fa1790`.
 
 [Основной манифест](https://raw.githubusercontent.com/TUTUPRVZ/flow-montage-releases/main/latest.stable.json) · [Манифест для прежних бета-версий](https://raw.githubusercontent.com/TUTUPRVZ/flow-montage-releases/main/latest.beta.json)
